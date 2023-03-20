@@ -28,5 +28,12 @@ _Description_: It was clustered a dataset of 200 customer profiles using the KMe
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
 _Description_: Automated External Defibrillators (AEDs) are electronic devices commonly used to treat certain types of arrhythmias. These devices are equipped with a predictive classification algorithm that detects whether or not there is any cardiac anomaly. It was used Support Vector Machine for classify a ventricular fibrillation correctly.
 
+### Decision Tree Classifier: Top-Selling Shops
+_Code_: [asdasd](/ML_Supervised/DecisionTreeClassifier/)
+
+
+
+
+
 ## About me
 
