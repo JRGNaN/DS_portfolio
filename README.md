@@ -10,7 +10,7 @@ I hope it could be useful and of your interest.
 
 * [About portfolio](#about-portfolio)
 * [Projects](#projects)
- * [KMeans: Customer Segmentation](#kmeans-customer-segmentation)
+  * [KMeans: Customer Segmentation](#kmeans-customer-segmentation)
 
 
 
