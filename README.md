@@ -7,7 +7,7 @@ I hope it could be useful and of your interest.
 
 ## Table of contents
 
-[About portfolio](about-portfolio)
+[About portfolio](#about-portfolio)
 
 
 
