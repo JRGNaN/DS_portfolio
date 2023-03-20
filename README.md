@@ -21,7 +21,7 @@ I hope it could be useful and of your interest.
 ### ML: Unsupervised Algorithm
 
 #### KMeans: Customer Segmentation
-_Code_: [ML_U_KMeans.ipynb](/ML_Unsupervised/KMeans/)
+_Code_: [ML_U_KMeans.ipynb](/ML_Unsupervised/KMeans/)  
 _Description_:
 
 
