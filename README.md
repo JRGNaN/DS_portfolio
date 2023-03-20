@@ -29,7 +29,7 @@ _Code_: [ML_S_Decision_Tree_Top-Selling_Shops.ipynb](/ML_Supervised/DecisionTree
 _Description_: using a Decision Tree Classifier model, top-selling shops were grouped according to their profile as determined by population, shop and product variables.
 
 ### Decision Tree Regressor: Property Prices
-_Code_: [ML_S_](/ML_Supervised/DecisionTreeRegressor/)  
+_Code_: [ML_S_Decision_Tree_Regressor_Property Prices.ipynb](/ML_Supervised/DecisionTreeRegressor/)  
 _Description_: model for property prediction in California, using Decision Tree Regressor.
 
 
