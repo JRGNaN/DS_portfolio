@@ -20,7 +20,7 @@ I hope it could be useful and of your interest.
 
 ### Unsupervised Algorithm
 
-#### KMeans: 
+#### KMeans: customer segmentation
 _Code_: 
 _Description_:
 
