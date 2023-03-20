@@ -21,10 +21,12 @@ I hope it could be useful and of your interest.
 ## Projects
 
 ### KMeans: Customer Segmentation
-_Code_: [ML_U_KMeans.ipynb](/ML_Unsupervised/KMeans/)  
-_Description_: we clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
+_Code_: [ML_U_KMeans_Customer_Segmentation.ipynb](/ML_Unsupervised/KMeans/)  
+_Description_: It was clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
 
 ### SVM: Heart Abnormality for Defibrillator
+_Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
+_Description_: Automated External Defibrillators (AEDs) are electronic devices commonly used to treat certain types of arrhythmias. These devices are equipped with a predictive classification algorithm that detects whether or not there is any cardiac anomaly. It was used Support Vector Machine for classify a ventricular fibrillation correctly.
 
 ## About me
 
