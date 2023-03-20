@@ -18,9 +18,9 @@ I hope it could be useful and of your interest.
 
 ## Projects
 
-### Unsupervised Algorithm
+### ML: Unsupervised Algorithm
 
-#### KMeans: customer segmentation
+#### KMeans: Customer Segmentation
 _Code_: 
 _Description_:
 
