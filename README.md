@@ -14,11 +14,6 @@ I hope it could be useful and of your interest.
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Sipervised Algorithm)](#decision-tree-classifier-top-selling-shops)
 
-
-
-
-
-
 ## Projects
 
 ### KMeans: Customer Segmentation
