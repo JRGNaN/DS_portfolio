@@ -22,7 +22,7 @@ I hope it could be useful and of your interest.
 
 #### KMeans: Customer Segmentation
 _Code_: [ML_U_KMeans.ipynb](/ML_Unsupervised/KMeans/)  
-_Description_:
+_Description_: we clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
 
 
 
