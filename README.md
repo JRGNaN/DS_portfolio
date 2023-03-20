@@ -10,7 +10,8 @@ I hope it could be useful and of your interest.
 
 * [About portfolio](#about-portfolio)
 * [Projects](#projects)
-  * [KMeans: Customer Segmentation](#kmeans-customer-segmentation)
+  * [KMeans: Customer Segmentation (ML: Unsupervised Algorithm)](#kmeans-customer-segmentation)
+  * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality)
 
 
 
@@ -19,11 +20,11 @@ I hope it could be useful and of your interest.
 
 ## Projects
 
-#### KMeans: Customer Segmentation (_ML: Unsupervised Algorithm_)
+### KMeans: Customer Segmentation (ML: Unsupervised Algorithm)
 _Code_: [ML_U_KMeans.ipynb](/ML_Unsupervised/KMeans/)  
 _Description_: we clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
 
-
+### SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)
 
 ## About me
 
