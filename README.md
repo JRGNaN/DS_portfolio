@@ -13,7 +13,7 @@ I hope it could be useful and of your interest.
   * [KMeans: Customer Segmentation (ML: Unsupervised Algorithm)](#kmeans-customer-segmentation)
   * [DBSCAN: Customer Segmentation (ML: Unsupervised Algorithm)](#dbscan-customer-segmentation)
   * [Isolation Forest: Bank Fraud (ML: Unsupervised Algorithm)](#isolation-forest-bank-fraud)
-  * [Apriori: Shopping Basket (ML: Unsupervised Algorithm)](#apriori-shopping-basket)
+  * [Apriori: Shopping Basket Analysis (ML: Unsupervised Algorithm)](#apriori-shopping-basket-analysis)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
