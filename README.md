@@ -14,6 +14,7 @@ I hope it could be useful and of your interest.
   * [DBSCAN: Customer Segmentation (ML: Unsupervised Algorithm)](#dbscan-customer-segmentation)
   * [Isolation Forest: Bank Fraud (ML: Unsupervised Algorithm)](#isolation-forest-bank-fraud)
   * [Apriori: Shopping Basket Analysis (ML: Unsupervised Algorithm)](#apriori-shopping-basket-analysis)
+  * [Linear Regression: Property Prices (ML: Supervised Algorithm)](#linear-regression-property-prices)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
@@ -36,6 +37,10 @@ _Description_: let's work on an example of banking fraud, which contains data on
 ### Apriori: Shopping Basket Analysis
 _Code_: [ML_U_Apriori_Shopping_Basket.ipynb](/ML_Unsupervised/Apriori/)  
 _Description_: from a dataset with 38.765 rows of grocery shop purchase we are going to perform a shopping basket analysis with the Apriori algorithm.
+
+### Linear Regression: Property Prices  
+_Code_: []()  
+_Description_: estimate the price of houses in certain districts of California (USA) based on the average values of the characteristics of the houses in each district. 
 
 ### SVM: Heart Abnormality for Defibrillator
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
