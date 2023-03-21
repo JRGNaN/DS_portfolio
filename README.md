@@ -16,6 +16,7 @@ I hope it could be useful and of your interest.
   * [Apriori: Shopping Basket Analysis (ML: Unsupervised Algorithm)](#apriori-shopping-basket-analysis)
   * [Linear Regression: Property Prices (ML: Supervised Algorithm)](#linear-regression-property-prices)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
+  * [Naive Bayes: Diabetes Diagnosis (ML: Supervised Algorithm)](#naive-bayes-diabetes-diagnosis)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
   * [Random Forest: Top-Selling Shops (ML_Supervised Algorithm)](#random-forest-top-selling-shops)
@@ -45,6 +46,10 @@ _Description_: estimate the price of houses in certain districts of California (
 ### SVM: Heart Abnormality for Defibrillator
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
 _Description_: Automated External Defibrillators (AEDs) are electronic devices commonly used to treat certain types of arrhythmias. These devices are equipped with a predictive classification algorithm that detects whether or not there is any cardiac anomaly. It was used Support Vector Machine for classify a ventricular fibrillation correctly.
+
+### Naive Bayes: Diabetes Diagnosis
+_Code_: [ML_S_NaiveBayes_Diabetes_Diagnosis.ipynb](/ML_Supervised/NaiveBayes/)
+_Description_: Work out a Naive Bayer model to determine whether or not a person suffers from diabetes.
 
 ### Decision Tree Classifier: Top-Selling Shops
 _Code_: [ML_S_Decision_Tree_Top-Selling_Shops.ipynb](/ML_Supervised/DecisionTreeClassifier/)  
