@@ -39,7 +39,7 @@ _Code_: [ML_U_Apriori_Shopping_Basket.ipynb](/ML_Unsupervised/Apriori/)
 _Description_: from a dataset with 38.765 rows of grocery shop purchase we are going to perform a shopping basket analysis with the Apriori algorithm.
 
 ### Linear Regression: Property Prices  
-_Code_: []()  
+_Code_: [ML_S_LinearRegression_Property_Prices.ipynb](/ML_Supervised/LinearRegression/)  
 _Description_: estimate the price of houses in certain districts of California (USA) based on the average values of the characteristics of the houses in each district. 
 
 ### SVM: Heart Abnormality for Defibrillator
