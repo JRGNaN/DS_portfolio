@@ -24,7 +24,7 @@ _Code_: [ML_U_KMeans_Customer_Segmentation.ipynb](/ML_Unsupervised/KMeans/)
 _Description_: It was clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
 
 ### DBSCAN: Customer Segmentation
-_Code_: 
+_Code_: [ML_U_DBSCAN_Customer_Segmentation.ipynb](/ML_Unsupervised/DSBCAN/)
 _Description_: dataset corresponds to data from a supermarket, which, through loyalty cards, has data on its customers, such as customer ID, age, gender, annual income and spending score, which is something it assigns to the customer based on its defined parameters such as customer behaviour and purchase data. Let's make a customer segmentation with DBSCAN model.
 
 ### SVM: Heart Abnormality for Defibrillator
