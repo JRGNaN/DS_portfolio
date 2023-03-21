@@ -29,7 +29,7 @@ _Code_: [ML_U_DBSCAN_Customer_Segmentation.ipynb](/ML_Unsupervised/DSBCAN/)
 _Description_: dataset corresponds to data from a supermarket, which, through loyalty cards, has data on its customers, such as customer ID, age, gender, annual income and spending score, which is something it assigns to the customer based on its defined parameters such as customer behaviour and purchase data. Let's make a customer segmentation with DBSCAN model.
 
 ### Isolation Forest: Bank Fraud
-_Code_: [ML_U_Isolation_Forest_Bank_Fraud.ipynb](/ML_Unsupervised/Isolation Forest/)  
+_Code_: [ML_U_Isolation_Forest_Bank_Fraud.ipynb](/ML_Unsupervised/IsolationForest/)  
 _Description_: let's work on an example of banking fraud, which contains data on customers who have applied for a loan from the bank. 
 
 ### SVM: Heart Abnormality for Defibrillator
