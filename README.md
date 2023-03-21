@@ -14,6 +14,7 @@ I hope it could be useful and of your interest.
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
+  * [Random Forest: Top-Selling Shops (ML_Supervised Algorithm)](#random-forest-top-selling-shops)
 
 ## Projects
 
