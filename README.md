@@ -12,6 +12,7 @@ I hope it could be useful and of your interest.
 * [Projects](#projects)
   * [KMeans: Customer Segmentation (ML: Unsupervised Algorithm)](#kmeans-customer-segmentation)
   * [DBSCAN: Customer Segmentation (ML: Unsupervised Algorithm)](#dbscan-customer-segmentation)
+  * [Isolation Forest: Bank Fraud (ML: Unsupervised Algorithm)](#isolation-forest-bank-fraud)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
@@ -26,6 +27,10 @@ _Description_: It was clustered a dataset of 200 customer profiles using the KMe
 ### DBSCAN: Customer Segmentation
 _Code_: [ML_U_DBSCAN_Customer_Segmentation.ipynb](/ML_Unsupervised/DSBCAN/)  
 _Description_: dataset corresponds to data from a supermarket, which, through loyalty cards, has data on its customers, such as customer ID, age, gender, annual income and spending score, which is something it assigns to the customer based on its defined parameters such as customer behaviour and purchase data. Let's make a customer segmentation with DBSCAN model.
+
+### Isolation Forest: Bank Fraud
+_Code_: [ML_U_Isolation_Forest_Bank_Fraud.ipynb](/ML_Unsupervised/Isolation Forest/)  
+_Description_: let's work on an example of banking fraud, which contains data on customers who have applied for a loan from the bank. 
 
 ### SVM: Heart Abnormality for Defibrillator
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
