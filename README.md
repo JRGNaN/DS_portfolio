@@ -11,6 +11,7 @@ I hope it could be useful and of your interest.
 * [About portfolio](#about-portfolio)
 * [Projects](#projects)
   * [KMeans: Customer Segmentation (ML: Unsupervised Algorithm)](#kmeans-customer-segmentation)
+  * [DBSCAN: Customer Segmentation (ML: Unsupervised Algorithm)](#dbscan-customer-segmentation)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
@@ -21,6 +22,10 @@ I hope it could be useful and of your interest.
 ### KMeans: Customer Segmentation
 _Code_: [ML_U_KMeans_Customer_Segmentation.ipynb](/ML_Unsupervised/KMeans/)  
 _Description_: It was clustered a dataset of 200 customer profiles using the KMeans algorithm, which were described by 5 variables (ID, sex, income, score, and age), into a minimum number of groups.
+
+### DBSCAN: Customer Segmentation
+_Code_: 
+_Description_: dataset corresponds to data from a supermarket, which, through loyalty cards, has data on its customers, such as customer ID, age, gender, annual income and spending score, which is something it assigns to the customer based on its defined parameters such as customer behaviour and purchase data. Let's make a customer segmentation with DBSCAN model.
 
 ### SVM: Heart Abnormality for Defibrillator
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
