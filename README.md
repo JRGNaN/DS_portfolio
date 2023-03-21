@@ -13,6 +13,7 @@ I hope it could be useful and of your interest.
   * [KMeans: Customer Segmentation (ML: Unsupervised Algorithm)](#kmeans-customer-segmentation)
   * [DBSCAN: Customer Segmentation (ML: Unsupervised Algorithm)](#dbscan-customer-segmentation)
   * [Isolation Forest: Bank Fraud (ML: Unsupervised Algorithm)](#isolation-forest-bank-fraud)
+  * [Apriori: Shopping Basket (ML: Unsupervised Algorithm)](#apriori-shopping-basket)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
   * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
@@ -31,6 +32,10 @@ _Description_: dataset corresponds to data from a supermarket, which, through lo
 ### Isolation Forest: Bank Fraud
 _Code_: [ML_U_Isolation_Forest_Bank_Fraud.ipynb](/ML_Unsupervised/IsolationForest/)  
 _Description_: let's work on an example of banking fraud, which contains data on customers who have applied for a loan from the bank. 
+
+### Apriori: Shopping Basket
+_Code_: [ML_U_Apriori_Shopping_Basket.ipynb]()
+_Description_: from a dataset with 38.765 rows of grocery shop purchase we are going to perform a shopping basket analysis with the Apriori algorithm.
 
 ### SVM: Heart Abnormality for Defibrillator
 _Code_: [ML_S_SVM_Heart_Abnormality_Defibrillator.ipynb](/ML_Supervised/SVM/)  
