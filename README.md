@@ -33,7 +33,7 @@ _Description_: dataset corresponds to data from a supermarket, which, through lo
 _Code_: [ML_U_Isolation_Forest_Bank_Fraud.ipynb](/ML_Unsupervised/IsolationForest/)  
 _Description_: let's work on an example of banking fraud, which contains data on customers who have applied for a loan from the bank. 
 
-### Apriori: Shopping Basket
+### Apriori: Shopping Basket Analysis
 _Code_: [ML_U_Apriori_Shopping_Basket.ipynb](/ML_Unsupervised/Apriori/)  
 _Description_: from a dataset with 38.765 rows of grocery shop purchase we are going to perform a shopping basket analysis with the Apriori algorithm.
 
