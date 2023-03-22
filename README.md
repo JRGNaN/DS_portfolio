@@ -18,9 +18,10 @@ I hope it could be useful and of your interest.
   * [Lasso and Ridge Regularisation: Fat Content in Food (ML: Supervised Algorithm)](#lasso-and-ridge-regularisation-fat-content-in-food)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Naive Bayes: Diabetes Diagnosis (ML: Supervised Algorithm)](#naive-bayes-diabetes-diagnosis)
-  * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
-  * [Decision Tree Regressor: Property Prices (ML_Supervised Algorithm)](#decision-tree-regressor-property-prices)
-  * [Random Forest: Top-Selling Shops (ML_Supervised Algorithm)](#random-forest-top-selling-shops)
+  * [Decision Tree Classifier: Top-Selling Shops (ML: Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
+  * [Decision Tree Regressor: Property Prices (ML: Supervised Algorithm)](#decision-tree-regressor-property-prices)
+  * [Random Forest: Top-Selling Shops (ML: Supervised Algorithm)](#random-forest-top-selling-shops)
+  * [Ensemble: Binary Classification (ML: Supervised Algorithm)](#ensemble-binary-classification)
 
 ## Projects
 
@@ -67,6 +68,11 @@ _Description_: model for property prediction in California, using Decision Tree 
 ### Random Forest: Top-Selling Shops
 _Code_: [ML_S_Ensemble_Random_Forest_Classifier_Top-Selling_Shops.ipynb](/ML_Supervised/RandomForest/)  
 _Description_: using a Random Forest, a kind of Ensemble model, top-selling shops were grouped according to their profile as determined by population, shop and product variables.
+
+### Ensemble: Binary Classification
+_Code_:  
+_Description_: a binary classification problem is posed to be solved with ensemble algorithms such as VotingClassifier, StackingClassifier, BaggingClassifier and AdaBoostClassifier. Using as simple predictors or weak learners, SVM, decision tree and logistic regression.
+
 
 
 ## About me
