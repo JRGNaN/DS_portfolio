@@ -22,6 +22,7 @@ I hope it could be useful and of your interest.
   * [Decision Tree Regressor: Property Prices (ML: Supervised Algorithm)](#decision-tree-regressor-property-prices)
   * [Random Forest: Top-Selling Shops (ML: Supervised Algorithm)](#random-forest-top-selling-shops)
   * [Ensemble: Binary Classification (ML: Supervised Algorithm)](#ensemble-binary-classification)
+  * [Time Series: Weather Forecast (ML: Supervised Algorithm)](#time-series-weather-forecast)
 
 ## Projects
 
@@ -73,6 +74,9 @@ _Description_: using a Random Forest, a kind of Ensemble model, top-selling shop
 _Code_: [ML_S_Ensemble_Binary_Classification.ipynb](/ML_Supervised/Ensemble/)
 _Description_: a binary classification problem is posed to be solved with ensemble algorithms such as VotingClassifier, StackingClassifier, BaggingClassifier and AdaBoostClassifier. Using as simple predictors or weak learners, SVM, decision tree and logistic regression.
 
+### Time Series: Weather Forecast
+_Code_: [ML_S_TimeSeries_Weather_Forecast.ipynb](/ML_Supervised/TimeSerie/)
+_Description_: a complete univariate time series analysis is performed. Evaluating whether the series is additive or multiplicative, its decomposition into trend, seasonality and noise components. In addition, we will analyse whether the series is stationary, and if not, we will apply the transformations to make it stationary and then apply different algorithms (Benchmark, ARIMA, Prophet) to predict 1 year ahead.
 
 
 ## About me
