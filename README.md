@@ -15,7 +15,7 @@ I hope it could be useful and of your interest.
   * [Isolation Forest: Bank Fraud (ML: Unsupervised Algorithm)](#isolation-forest-bank-fraud)
   * [Apriori: Shopping Basket Analysis (ML: Unsupervised Algorithm)](#apriori-shopping-basket-analysis)
   * [Linear Regression: Property Prices (ML: Supervised Algorithm)](#linear-regression-property-prices)
-  * [Lasso, Ridge and Elastic Net Regularisation: Fat Content in Food (ML: Supervised Algorithm)](#lasso-ridge-and-elastic-net-regularisation-fat-content-in-food)
+  * [Lasso and Ridge Regularisation: Fat Content in Food (ML: Supervised Algorithm)](#lasso-and-ridge-regularisation-fat-content-in-food)
   * [SVM: Heart Abnormality for Defibrillator (ML: Supervised Algorithm)](#svm-heart-abnormality-for-defibrillator)
   * [Naive Bayes: Diabetes Diagnosis (ML: Supervised Algorithm)](#naive-bayes-diabetes-diagnosis)
   * [Decision Tree Classifier: Top-Selling Shops (ML_Supervised Algorithm)](#decision-tree-classifier-top-selling-shops)
@@ -44,7 +44,7 @@ _Description_: from a dataset with 38.765 rows of grocery shop purchase we are g
 _Code_: [ML_S_LinearRegression_Property_Prices.ipynb](/ML_Supervised/LinearRegression/)  
 _Description_: estimate the price of houses in certain districts of California (USA) based on the average values of the characteristics of the houses in each district. 
 
-### Lasso, Ridge and Elastic Net Regularisation: Fat Content in Food
+### Lasso and Ridge Regularisation: Fat Content in Food
 _Code_: 
 _Description_: train a regression model to help us determine the fat content of a certain food product. We have a set of 100 predictor variables associated with the absorption channel spectrum. 
 
