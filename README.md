@@ -70,7 +70,7 @@ _Code_: [ML_S_Ensemble_Random_Forest_Classifier_Top-Selling_Shops.ipynb](/ML_Sup
 _Description_: using a Random Forest, a kind of Ensemble model, top-selling shops were grouped according to their profile as determined by population, shop and product variables.
 
 ### Ensemble: Binary Classification
-_Code_:  
+_Code_: [ML_S_Ensemble_Binary_Classification.ipynb](/ML_Supervised/Ensemble/)
 _Description_: a binary classification problem is posed to be solved with ensemble algorithms such as VotingClassifier, StackingClassifier, BaggingClassifier and AdaBoostClassifier. Using as simple predictors or weak learners, SVM, decision tree and logistic regression.
 
 
