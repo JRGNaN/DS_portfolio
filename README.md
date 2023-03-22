@@ -45,7 +45,7 @@ _Code_: [ML_S_LinearRegression_Property_Prices.ipynb](/ML_Supervised/LinearRegre
 _Description_: estimate the price of houses in certain districts of California (USA) based on the average values of the characteristics of the houses in each district. 
 
 ### Lasso and Ridge Regularisation: Fat Content in Food
-_Code_: 
+_Code_: [ML_S_L1L2_Fat_Content_Food.ipynb](ML_Supervised/Regularisation/)
 _Description_: train a regression model to help us determine the fat content of a certain food product. We have a set of 100 predictor variables associated with the absorption channel spectrum. 
 
 ### SVM: Heart Abnormality for Defibrillator
