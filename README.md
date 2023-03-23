@@ -81,7 +81,7 @@ _Description_: a complete univariate time series analysis is performed. Evaluati
 
 ### NLP: Reviews Analysis  
 _Code_:  
-_Description_:  
+_Description_: the objective is to train a model that, from the text of a review, can detect how positive or negative it is. We are going to work with the dataset of restaurant ratings.
 
 ## About me
 
