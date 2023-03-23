@@ -1,4 +1,4 @@
-# Joquín Rodrigo García - Data Science Portfolio
+# Joaquín Rodrigo García - Data Science Portfolio
 
 ## About portfolio
 Projects, practices, examples of my passion: Data Science  
