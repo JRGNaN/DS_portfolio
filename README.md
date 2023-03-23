@@ -23,6 +23,7 @@ I hope it could be useful and of your interest.
   * [Random Forest: Top-Selling Shops (ML: Supervised Algorithm)](#random-forest-top-selling-shops)
   * [Ensemble: Binary Classification (ML: Supervised Algorithm)](#ensemble-binary-classification)
   * [Time Series: Weather Forecast (ML: Supervised Algorithm)](#time-series-weather-forecast)
+  * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
 
 ## Projects
 
@@ -78,6 +79,9 @@ _Description_: a binary classification problem is posed to be solved with ensemb
 _Code_: [ML_S_TimeSeries_Weather_Forecast.ipynb](/ML_Supervised/TimeSerie/)
 _Description_: a complete univariate time series analysis is performed. Evaluating whether the series is additive or multiplicative, its decomposition into trend, seasonality and noise components. In addition, we will analyse whether the series is stationary, and if not, we will apply the transformations to make it stationary and then apply different algorithms (Benchmark, ARIMA, Prophet) to predict 1 year ahead.
 
+### NLP: Reviews Analysis  
+_Code_:  
+_Description_:  
 
 ## About me
 
