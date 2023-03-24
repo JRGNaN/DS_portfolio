@@ -25,6 +25,7 @@ I hope it could be useful and of your interest.
   * [Time Series: Weather Forecast (ML: Supervised Algorithm)](#time-series-weather-forecast)
   * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
   * [NLP: Film Recommender (ML: Supervised Algorithm)](#nlp-film-recommender)
+  * [NLP: Sentiment Analysis (ML: Supervised Algorithm)](#nlp-sentiment-analysis)
 
 ## Projects
 
@@ -87,6 +88,10 @@ _Description_: the objective is to train a model that, from the text of reviews,
 ### NLP: Film Recommender  
 _Code_: [ML_S_NLP_Film_Recommeder.ipynb](/ML_Supervised/NLP/Film_Recommender/)  
 _Description_: let's create a "content-based" film recommendation system.
+
+### NLP: Sentiment Analysis  
+_Code_: []()  
+_Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with DecisionTree and Logistics VS ruled-based model as VADER:
 
 ## About me
 
