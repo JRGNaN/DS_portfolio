@@ -95,10 +95,8 @@ _Code_: [ML_S_NLP_Sentiment_Analysis.ipynb](/ML_Supervised/NLP/Sentiment_Analysi
 _Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS an example made with ruled-based model VADER
 
 ### CNN: Pneumonia Diagnosis  
-_Code_: []()  
-_Description_:  
-
-
+_Code_: [ANN_CNN_Pneumonia_Analysis.ipynb](/ANN/CNN_Pneumonia_Diagnosis/)  
+_Description_: from chest X-ray images (anterior-posterior) selected from retrospective cohorts of paediatric patients aged one to five years from the Guangzhou Women's and Children's Medical Centre, Guangzhou, we are going to train a Convolutional Neural Network model to predict pneumonia cases.
 
 
 ## About me
