@@ -91,7 +91,7 @@ _Description_: let's create a "content-based" film recommendation system.
 
 ### NLP: Sentiment Analysis  
 _Code_: []()  
-_Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS ruled-based model as VADER:
+_Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS an example made with ruled-based model VADER
 
 ## About me
 
