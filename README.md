@@ -86,7 +86,7 @@ _Description_: the objective is to train a model that, from the text of reviews,
 
 ### NLP: Film Recommender  
 _Code_:  
-_Description_: Let's create a "content-based" film recommendation system.
+_Description_: let's create a "content-based" film recommendation system.
 
 ## About me
 
