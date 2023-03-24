@@ -24,6 +24,7 @@ I hope it could be useful and of your interest.
   * [Ensemble: Binary Classification (ML: Supervised Algorithm)](#ensemble-binary-classification)
   * [Time Series: Weather Forecast (ML: Supervised Algorithm)](#time-series-weather-forecast)
   * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
+  * [NLP: Film Recommender (ML: Supervised Algorithm)](#nlp-film-recommender)
 
 ## Projects
 
@@ -82,6 +83,10 @@ _Description_: a complete univariate time series analysis is performed. Evaluati
 ### NLP: Reviews Analysis  
 _Code_: [ML_S_NLP_Reviews_Analysis.ipynb](/ML_Supervised/NLP/)  
 _Description_: the objective is to train a model that, from the text of reviews, can detect how positive or negative it is. We are going to work with the dataset of restaurant ratings.
+
+### NLP: Film Recommender  
+_Code_:  
+_Description_: Let's create a "content-based" film recommendation system.
 
 ## About me
 
