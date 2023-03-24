@@ -26,6 +26,7 @@ I hope it could be useful and of your interest.
   * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
   * [NLP: Film Recommender (ML: Supervised Algorithm)](#nlp-film-recommender)
   * [NLP: Sentiment Analysis (ML: Supervised Algorithm)](#nlp-sentiment-analysis)
+  * [CNN: Pneumonia Diagnosis (ANN)](#cnn-pneumonia diagnosis)
 
 ## Projects
 
@@ -92,6 +93,13 @@ _Description_: let's create a "content-based" film recommendation system.
 ### NLP: Sentiment Analysis  
 _Code_: [ML_S_NLP_Sentiment_Analysis.ipynb](/ML_Supervised/NLP/Sentiment_Analysis/)  
 _Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS an example made with ruled-based model VADER
+
+### CNN: Pneumonia Diagnosis  
+_Code_: []()  
+_Description_: 
+
+
+
 
 ## About me
 
