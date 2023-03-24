@@ -81,11 +81,11 @@ _Code_: [ML_S_TimeSeries_Weather_Forecast.ipynb](/ML_Supervised/TimeSerie/)
 _Description_: a complete univariate time series analysis is performed. Evaluating whether the series is additive or multiplicative, its decomposition into trend, seasonality and noise components. In addition, we will analyse whether the series is stationary, and if not, we will apply the transformations to make it stationary and then apply different algorithms (Benchmark, ARIMA, Prophet) to predict 1 year ahead.
 
 ### NLP: Reviews Analysis  
-_Code_: [ML_S_NLP_Reviews_Analysis.ipynb](/ML_Supervised/NLP/)  
+_Code_: [ML_S_NLP_Reviews_Analysis.ipynb](/ML_Supervised/NLP/Reviews_Analysis/)  
 _Description_: the objective is to train a model that, from the text of reviews, can detect how positive or negative it is. We are going to work with the dataset of restaurant ratings.
 
 ### NLP: Film Recommender  
-_Code_:  
+_Code_: [ML_S_NLP_Film_Recommeder.ipynb](/ML_Supervised/NLP/Film_Recommender/)
 _Description_: let's create a "content-based" film recommendation system.
 
 ## About me
