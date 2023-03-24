@@ -26,7 +26,7 @@ I hope it could be useful and of your interest.
   * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
   * [NLP: Film Recommender (ML: Supervised Algorithm)](#nlp-film-recommender)
   * [NLP: Sentiment Analysis (ML: Supervised Algorithm)](#nlp-sentiment-analysis)
-  * [CNN: Pneumonia Diagnosis (ANN)](#cnn-pneumonia diagnosis)
+  * [CNN: Pneumonia Diagnosis (ANN)](#cnn-pneumonia-diagnosis)
 
 ## Projects
 
