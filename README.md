@@ -85,7 +85,7 @@ _Code_: [ML_S_NLP_Reviews_Analysis.ipynb](/ML_Supervised/NLP/Reviews_Analysis/)
 _Description_: the objective is to train a model that, from the text of reviews, can detect how positive or negative it is. We are going to work with the dataset of restaurant ratings.
 
 ### NLP: Film Recommender  
-_Code_: [ML_S_NLP_Film_Recommeder.ipynb](/ML_Supervised/NLP/Film_Recommender/)
+_Code_: [ML_S_NLP_Film_Recommeder.ipynb](/ML_Supervised/NLP/Film_Recommender/)  
 _Description_: let's create a "content-based" film recommendation system.
 
 ## About me
