@@ -114,3 +114,7 @@ _Description_: As you know it is quite difficult to predict the stock market val
 
 I'm a tech enthusiast, living in Barcelona and working as industrial engineer the last 16 years in many roles and sector: retail, insurance, real estate, architecture, hospital, educational. But always one common factor has always been with me, data and its power when it's turned into information and knowledge. That's maybe the reason why I'm here.
 
+## Contact
+
+* https://www.linkedin.com/in/joaquinrgs/
+
