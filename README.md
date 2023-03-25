@@ -1,7 +1,7 @@
 # Joaquín Rodrigo García - Data Science Portfolio
 
 ## About portfolio
-Projects, practices, examples of my passion: Data Science  
+Projects, practices, examples of my job as Data Science, focused on modelling.
 
 Below some examples as a showcase of my skills and work during my Master in Data Science at Immune Technology Institute and self-learning projects. 
 I hope it could be useful and of your interest.
@@ -111,4 +111,6 @@ _Description_: As you know it is quite difficult to predict the stock market val
 
 
 ## About me
+
+I'm a tech enthusiast, living in Barcelona and working as industrial engineer the last 16 years in many roles and sector: retail, insurance, real estate, architecture, hospital, educational. But always one common factor has always been with me, data and its power when it's turned into information and knowledge. That's maybe the reason why I'm here.
 
