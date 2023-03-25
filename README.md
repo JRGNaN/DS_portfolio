@@ -28,6 +28,7 @@ I hope it could be useful and of your interest.
   * [NLP: Sentiment Analysis (ML: Supervised Algorithm)](#nlp-sentiment-analysis)
   * [DNN: Bank Churn Rate (ANN)](#dnn-bank-churn-rate)
   * [CNN: Pneumonia Diagnosis (ANN)](#cnn-pneumonia-diagnosis)
+  * [LSTM: Microsoft Stock Prediction (ANN)](#lstm-microsoft-stock-prediction)
 
 ## Projects
 
@@ -102,6 +103,10 @@ _Description_: work on the usual case of bank churn rate with predictors associa
 ### CNN: Pneumonia Diagnosis  
 _Code_: [ANN_CNN_Pneumonia_Analysis.ipynb](/ANN/CNN_Pneumonia_Diagnosis/)  
 _Description_: from chest X-ray images (anterior-posterior) selected from retrospective cohorts of paediatric patients aged one to five years from the Guangzhou Women's and Children's Medical Centre, Guangzhou, we are going to train a Convolutional Neural Network model to predict pneumonia cases.
+
+### LSTM: Microsoft Stock Prediction
+_Code_:  
+_Description_:  
 
 
 
