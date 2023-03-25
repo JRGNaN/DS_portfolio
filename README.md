@@ -94,8 +94,9 @@ _Description_: let's create a "content-based" film recommendation system.
 ### NLP: Sentiment Analysis  
 _Code_: [ML_S_NLP_Sentiment_Analysis.ipynb](/ML_Supervised/NLP/Sentiment_Analysis/)  
 _Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS an example made with ruled-based model VADER.
+
 ### DNN: Bank Churn Rate  
-_Code_:  
+_Code_: [ANN_DNN_Bank_Clients_Churn.ipynb](/ANN/DNN_Bank_Churn/)
 _Description_: work on the usual case of bank churn rate with predictors associated to customer profile and an independent variable indicating whether or not the customer remains with the bank. Using a predictive model of neural network model of the DNN type.
 
 ### CNN: Pneumonia Diagnosis  
