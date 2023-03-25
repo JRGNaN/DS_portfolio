@@ -26,6 +26,7 @@ I hope it could be useful and of your interest.
   * [NLP: Reviews Analysis (ML: Supervised Algorithm)](#nlp-reviews-analysis)
   * [NLP: Film Recommender (ML: Supervised Algorithm)](#nlp-film-recommender)
   * [NLP: Sentiment Analysis (ML: Supervised Algorithm)](#nlp-sentiment-analysis)
+  * [DNN: Bank Churn Rate (ANN)](#dnn-bank-churn-rate)
   * [CNN: Pneumonia Diagnosis (ANN)](#cnn-pneumonia-diagnosis)
 
 ## Projects
@@ -94,9 +95,14 @@ _Description_: let's create a "content-based" film recommendation system.
 _Code_: [ML_S_NLP_Sentiment_Analysis.ipynb](/ML_Supervised/NLP/Sentiment_Analysis/)  
 _Description_: from a dataset of tweets labelled according to whether they correspond to good or bad news, we will generate a predictive model that allows us to perform this classification using TF-IDF vectorization with NaiveBayes and LogisticRegressor VS an example made with ruled-based model VADER
 
+### DNN: Bank Churn Rate  
+_Code_:  
+_Description_: work on the usual case of bank churn rate with predictors associated to customer profile and an independent variable indicating whether or not the customer remains with the bank. Using a predictive model of neural network model of the DNN type.
+
 ### CNN: Pneumonia Diagnosis  
 _Code_: [ANN_CNN_Pneumonia_Analysis.ipynb](/ANN/CNN_Pneumonia_Diagnosis/)  
 _Description_: from chest X-ray images (anterior-posterior) selected from retrospective cohorts of paediatric patients aged one to five years from the Guangzhou Women's and Children's Medical Centre, Guangzhou, we are going to train a Convolutional Neural Network model to predict pneumonia cases.
+
 
 
 ## About me
