@@ -105,8 +105,8 @@ _Code_: [ANN_CNN_Pneumonia_Analysis.ipynb](/ANN/CNN_Pneumonia_Diagnosis/)
 _Description_: from chest X-ray images (anterior-posterior) selected from retrospective cohorts of paediatric patients aged one to five years from the Guangzhou Women's and Children's Medical Centre, Guangzhou, we are going to train a Convolutional Neural Network model to predict pneumonia cases.
 
 ### LSTM: Microsoft Stock Prediction
-_Code_:  
-_Description_:  
+_Code_: [ANN_LSTM_Microsoft_Stock_Prediction.ipynb](/ANN/LSTM_Microsoft_Stock_Prediction/)
+_Description_: As you know it is quite difficult to predict the stock market value as future values are independent of past values, but what we can see is the sign of the trend, if it is positive the stock will go up and if it is negative it will go down. To do this we use the API of the yahoo finance portal and using the yfinance python library we connect and extract the data for 7 years Microsoft Stock Market Price.
 
 
 
